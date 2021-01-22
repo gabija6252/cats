@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{86F237F0-5943-4173-8870-8134BED7CC25}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cats/Program.cs">
+    <Files>
+      <File FileName="cats/Program.cs" Line="68" Column="33" />
+      <File FileName="MyLibrary/Class1.cs" Line="44" Column="111" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cats" expanded="True">
+            <Node name="cats" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="MyLibrary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.cats PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

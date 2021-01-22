@@ -1,0 +1,9 @@
+/home/gabija/Projects/cats/MyLibrary/bin/Debug/netstandard2.0/MyLibrary.deps.json
+/home/gabija/Projects/cats/MyLibrary/bin/Debug/netstandard2.0/MyLibrary.dll
+/home/gabija/Projects/cats/MyLibrary/bin/Debug/netstandard2.0/MyLibrary.pdb
+/home/gabija/Projects/cats/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.csprojAssemblyReference.cache
+/home/gabija/Projects/cats/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.AssemblyInfoInputs.cache
+/home/gabija/Projects/cats/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.AssemblyInfo.cs
+/home/gabija/Projects/cats/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.csproj.CoreCompileInputs.cache
+/home/gabija/Projects/cats/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.dll
+/home/gabija/Projects/cats/MyLibrary/obj/Debug/netstandard2.0/MyLibrary.pdb

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cats", "cats\cats.csproj", "{86F237F0-5943-4173-8870-8134BED7CC25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{3BA1A9F3-4C2C-4FF5-9C26-1E568A59F3C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F237F0-5943-4173-8870-8134BED7CC25}.Debug|x86.ActiveCfg = Debug|x86
+		{86F237F0-5943-4173-8870-8134BED7CC25}.Debug|x86.Build.0 = Debug|x86
+		{86F237F0-5943-4173-8870-8134BED7CC25}.Release|x86.ActiveCfg = Release|x86
+		{86F237F0-5943-4173-8870-8134BED7CC25}.Release|x86.Build.0 = Release|x86
+		{3BA1A9F3-4C2C-4FF5-9C26-1E568A59F3C7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3BA1A9F3-4C2C-4FF5-9C26-1E568A59F3C7}.Debug|x86.Build.0 = Debug|Any CPU
+		{3BA1A9F3-4C2C-4FF5-9C26-1E568A59F3C7}.Release|x86.ActiveCfg = Release|Any CPU
+		{3BA1A9F3-4C2C-4FF5-9C26-1E568A59F3C7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
